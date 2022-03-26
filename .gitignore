@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.xml
+/out
+
+# this is how you comment in this file with hashtags
+
